@@ -1,0 +1,11 @@
+/* Headers */
+h1 {
+  margin-bottom: 0;
+  background-color: cadetblue;
+}
+
+h2 {
+  margin-top: 0;
+  font-size: 20px;
+  background-color: cyan;
+}
